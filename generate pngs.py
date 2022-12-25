@@ -5,7 +5,7 @@ import shutil
 
 #checks for "pngs" folder existance
 if (os.path.exists("pngs")):
-    deleteanswer = input("folder \"pngs\" exitst, delete it? [y/n]:\n->")
+    deleteanswer = input("folder \"pngs\" exitst, delete it? [y/n]:\n-> ")
     if(deleteanswer == "n"):
         exit()
     elif(deleteanswer == "y"):
@@ -40,4 +40,12 @@ for x in svgs:
     cairosvg.svg2png(url=svgpath, write_to=pngpath, scale=resolution/100)
 
 #print result
-print("converted " + str(len(svgs)) + " svgs to pngs in " + str(resolution) + "x" + str(resolution) + "px resolution")
+print(
+    "converted "
+    + str(len(svgs))
+    + " svgs to pngs in "
+    + str(resolution)
+    + "x"
+    + str(resolution)
+    + "px resolution"
+)
