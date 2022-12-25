@@ -50,8 +50,6 @@ updating
 
 This is better than download zip since it's updatable
 
-table
-
 ## Contributing
 
 Contributions are always welcome!
