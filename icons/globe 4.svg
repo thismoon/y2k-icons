@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="100" height="100" version="1.1" viewBox="0 0 26.458 26.458" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.3229">
-  <ellipse cx="13.229" cy="13.229" rx="12.568" ry="6.268" style="paint-order:markers stroke fill"/>
-  <path d="m0.66145 13.229h25.135" style="paint-order:markers stroke fill"/>
-  <path d="m13.229 6.961v12.536" style="paint-order:markers stroke fill"/>
-  <path d="m0.66145 13.229s0-3.7608 12.568-3.7608c12.568 0 12.568 3.7608 12.568 3.7608s1e-6 3.7608-12.568 3.7608c-12.568 0-12.568-3.7608-12.568-3.7608" style="paint-order:markers stroke fill"/>
-  <path d="m13.229 6.961s-6.2838 0-6.2838 6.268c0 6.268 6.2838 6.268 6.2838 6.268s6.2838 0 6.2838-6.268c0-6.268-6.2838-6.268-6.2838-6.268z" style="paint-order:markers stroke fill"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 26.458 26.458"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.323"><ellipse cx="13.229" cy="13.229" rx="12.568" ry="6.268" style="paint-order:markers stroke fill"/><path d="M.661 13.229h25.135M13.229 6.961v12.536M.661 13.229s0-3.76 12.568-3.76 12.568 3.76 12.568 3.76 0 3.76-12.568 3.76S.661 13.23.661 13.23" style="paint-order:markers stroke fill"/><path d="M13.229 6.961s-6.284 0-6.284 6.268 6.284 6.268 6.284 6.268 6.284 0 6.284-6.268-6.284-6.268-6.284-6.268z" style="paint-order:markers stroke fill"/></g></svg>
