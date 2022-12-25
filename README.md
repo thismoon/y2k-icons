@@ -36,19 +36,25 @@ An open source y2k icon pack
 
 ## Download
 
-Install y2k-icons with git
+download y2k-icons with git:
 
 ```sh
   git clone github.com/thismoon/y2k-icons.git
 ```
    
-updating
+updating:
 
 ```sh
   git pull
 ```
 
-This is better than download zip since it's updatable
+This is better than the download zip option since it's updatable
+
+you can also generate pngs if you want using the script (you need the "cairosvg" library):
+
+```sh
+  python3 "generate pngs.py"
+```
 
 ## Contributing
 
