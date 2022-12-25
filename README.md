@@ -4,7 +4,7 @@
   <h1>y2k icons</h1>
   
   <p>
-    Icons in the y2k style 
+    open source abstract icons
   </p>
   
   <h6>*this readme is still incomplete</h6>
