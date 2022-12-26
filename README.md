@@ -31,7 +31,7 @@ An open source y2k icon pack
 ### Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+scrnshote+hyere" alt="screenshot" />
+  <img src="assets/preview image.png" alt="screenshot" />
 </div>
 
 ## Download
